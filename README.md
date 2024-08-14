@@ -4,9 +4,10 @@ This code was written by me for an assignemnt that I involved at Sri Lanka Insti
 
 Visit this link to be a part of this program --> https://code.sliit.org/courses/ai-ml-stage1
 
-However I am adding the instruction of the assignment here as an image for your reference.
+However I am adding the instruction of the assignment as well as the dataset for your convenience. 
 
-[<img width="680" alt="image" src="https://github.com/user-attachments/assets/2006d98b-8b74-48b5-a9b4-92e80903df79">](https://code.sliit.org/courses/ai-ml-stage1)
+<img width="1461" alt="Screenshot 2024-08-14 at 12 26 28" src="https://github.com/user-attachments/assets/26f3d2e6-3a00-4d5c-8507-5d376b4959d6">
+
 
 Once again a humble gratitude towards all the lecturers & instructors of the program
   1. Dr. Nuwan Kodagoda
