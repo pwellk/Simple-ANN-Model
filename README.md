@@ -1,20 +1,14 @@
-# Lesson 6-Task 1 Build and Train a Simple ANN Model
+# Build and Train a Simple ANN Model
 
+This code was written by me for an assignemnt that I involved at Sri Lanka Institute of Information Technology(SLIIT) "AI / ML Engineer Stage 1" Program. 
 
+Visit this link to be a part of this program --> https://code.sliit.org/courses/ai-ml-stage1
 
-Nimal has started his own mobile company in Sri Lanka. He wants to be a challenge to  big companies like Apple, Samsung, etc. However, he does not know how to estimate the price of mobile phones that his company creates. In this competitive mobile phone market, you cannot simply assume things. To solve this problem, he has collected sales data for  mobile phones of various companies. Nimal wants to find a relationship between the features of a mobile phone (eg:- RAM, internal memory, etc.) and its selling price. As he is not very good at machine learning, he needs your help to solve this problem.
+However I am adding the instruction of the assignment here as an image for your reference.
 
-You are given a csv file as the dataset, and it contains the necessary attributes to evaluate the price range. Here are the  2 price ranges:  high(1) and low(0).
+[<img width="680" alt="image" src="https://github.com/user-attachments/assets/2006d98b-8b74-48b5-a9b4-92e80903df79">](https://code.sliit.org/courses/ai-ml-stage1)
 
-Use your ML knowledge and try to develop a small ANN model and save weights using TensorFlow which will be important for future prediction of the price for given mobile phone specifications.
-
-Steps
-
-1. Read the data in CSV file
-2. Split the data set into training and testing data where it contains 75% of the data as training and rest as testing data
-3. Ann model architecture: – You can have the ANN with 2 hidden layer
-  1stlayer with 8 neurons/nodes
-  2nd layer with 4 neurons/nodes
-3. Compile the model 
-4. Fit, train the model for 100 epoch with batch size of 32
-5. Save the weights file.
+Once again a humble gratitude towards all the lecturers & instructors of the program
+  1. Dr. Nuwan Kodagoda
+  2. Dr. Lakmini Abeywardhana
+  3. Ms. Rrubaa Panchendrarajan
